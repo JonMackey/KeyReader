@@ -29,7 +29,7 @@ The software is designed to run on my "STM32F429 3.5TFT & Camera v1.0" board.
 - Cut, enabled after a valid scan, sends the key code information to the Key Code Cutter to be cut.
 
 See my 
-[Key Reader](https://www.instructables.com/Key-Reader/) instructable for more information.
+[Key Reader](https://www.instructables.com/Key-Reader-Using-STM32-DCMI-and-FMC/) instructable for more information.
 
 The instructable contains links to where the bare PCB can be purchased.
 
